@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hera-real-estate/static/css/main.4eb11c9d.css",
+    "main.js": "/hera-real-estate/static/js/main.c976cc6e.js",
+    "index.html": "/hera-real-estate/index.html",
+    "main.4eb11c9d.css.map": "/hera-real-estate/static/css/main.4eb11c9d.css.map",
+    "main.c976cc6e.js.map": "/hera-real-estate/static/js/main.c976cc6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eb11c9d.css",
+    "static/js/main.c976cc6e.js"
+  ]
+}
